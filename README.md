@@ -1,7 +1,7 @@
 # instaBrute
 Powerfull instagram brute force tool
 
-#İnstallation
+# İnstallation
 ```
 apt update -y
 apt upgrade -y
